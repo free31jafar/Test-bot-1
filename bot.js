@@ -25,4 +25,3 @@ client.on('message', message => {
 
 
 
-client.login(process.env.NTYwODkxMzU0OTYwNDk0NTk0.D36itg.Etwkygp-quwQxViyW2NHgeo8y9Q);
